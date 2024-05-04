@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: basilisk
+Version: 0.1a
+Summary: A generative, probabilistic model of side chains in proteins. 
+Home-page: https://github.com/makki547/basilisk
+Author: Hajime Tamaki
+Author-email: tamaki@protein.osaka-u.ac.jp
+License: GPLv3
+Description: Originally developed by Tim Harder (mail@tim-harder.de) and Jes Frellsen, this library has been adapted by Hajime Tamaki for compatibility with Python3, including modifications
+Platform: UNKNOWN
