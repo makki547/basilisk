@@ -1,26 +1,27 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Harder"
-  given-names: "Tim"
-  email: "mail@tim-harder.de"
-- family-names: "Boomsma"
-  given-names: "Wouter"
-- family-names: "Paluszewski"
-  given-names: "Martin"
-- family-names: "Frellsen"
-  given-names: "Jes"
-- family-names: "Johansson"
-  given-names: "Kristoffer E"
-- family-names: "Hamelryck"
-  given-names: "Thomas"
-  email: "thamelry@bio.ku.dk"
-title: "Beyond rotamers: a generative, probabilistic model of side chains in proteins"
-type: "article"
-journal: "BMC Bioinformatics"
-volume: 11
-issue: 306
-year: 2010
-doi: 10.1186/1471-2105-11-306
-date-published: 2010-06-05
-url: "https://doi.org/10.1186/1471-2105-11-306"
+preferred-citation:
+  authors:
+  - family-names: "Harder"
+    given-names: "Tim"
+    email: "mail@tim-harder.de"
+  - family-names: "Boomsma"
+    given-names: "Wouter"
+  - family-names: "Paluszewski"
+    given-names: "Martin"
+  - family-names: "Frellsen"
+    given-names: "Jes"
+  - family-names: "Johansson"
+    given-names: "Kristoffer E"
+  - family-names: "Hamelryck"
+    given-names: "Thomas"
+    email: "thamelry@bio.ku.dk"
+  title: "Beyond rotamers: a generative, probabilistic model of side chains in proteins"
+  type: "article"
+  journal: "BMC Bioinformatics"
+  volume: 11
+  issue: 306
+  year: 2010
+  doi: 10.1186/1471-2105-11-306
+  date-published: 2010-06-05
+  url: "https://doi.org/10.1186/1471-2105-11-306"
