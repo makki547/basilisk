@@ -15,6 +15,7 @@ This project was originally developed by Tim Harder and Jes Frellsen and has bee
 
 ## How to Install
 
+0. (Prerequisite) Install Numpy and Biopython in an appropriate way, for example via `pip install numpy biopython`
 1. Clone the repository: `git clone https://github.com/makki547/basilisk.git`
 2. Install the package via pip: `cd basilisk; pip install .`
 
